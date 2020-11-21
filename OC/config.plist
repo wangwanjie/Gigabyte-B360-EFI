@@ -578,7 +578,7 @@
 			<key>BoardProduct</key>
 			<string>Mac-63001698E7A34814</string>
 			<key>BoardRevision</key>
-			<string>07</string>
+			<data>Bw==</data>
 			<key>DevicePathsSupported</key>
 			<integer>0</integer>
 			<key>FSBFrequency</key>
@@ -588,11 +588,11 @@
 			<key>PlatformName</key>
 			<string></string>
 			<key>SmcBranch</key>
-			<string>6A3133385F390000</string>
+			<data>ajEzOF85AAA=</data>
 			<key>SmcPlatform</key>
-			<string>6A31333900000000</string>
+			<data>ajEzOQAAAAA=</data>
 			<key>SmcRevision</key>
-			<string>02470F000003</string>
+			<data>AkcPAAAD</data>
 			<key>StartupPowerEvents</key>
 			<integer>0</integer>
 			<key>SystemProductName</key>
@@ -613,7 +613,7 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>ROM</key>
-			<string>B42E9965FC8B</string>
+			<data>tC6ZZfyL</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
@@ -656,15 +656,15 @@
 			<key>ChassisVersion</key>
 			<string>Mac-63001698E7A34814</string>
 			<key>FirmwareFeatures</key>
-			<string>76F58FFD00000000</string>
+			<data>dvWP/QAAAAA=</data>
 			<key>FirmwareFeaturesMask</key>
-			<string>7FFFDFFF00000000</string>
+			<data>f//f/wAAAAA=</data>
 			<key>PlatformFeature</key>
 			<integer>32</integer>
 			<key>ProcessorType</key>
 			<integer>1541</integer>
 			<key>SmcVersion</key>
-			<string></string>
+			<data></data>
 			<key>SystemFamily</key>
 			<string>iMac</string>
 			<key>SystemManufacturer</key>
