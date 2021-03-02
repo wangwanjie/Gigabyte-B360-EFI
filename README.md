@@ -1,6 +1,6 @@
 # Gigabyte-B360-EFI
 
-Boot loader: OpenCore-0.6.2-RELEASE
+Boot loader: OpenCore-0.6.7-RELEASE
 
 # Kexts-and-plist
 i5-8500 + B360 + RX580
