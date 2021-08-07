@@ -1,6 +1,6 @@
 # Gigabyte-B360-EFI
 
-Boot loader: OpenCore-0.6.9-RELEASE
+Boot loader: OpenCore-0.7.2-RELEASE
 
 # Kexts-and-plist
 i5-8500 + B360 + RX580
@@ -13,32 +13,38 @@ Components used for this build:
 - Storage: XPG GAMMIX S11 Pro 512GB NVME + Samsung 860 EVO 512GB NVME(SATA interface) + WD 1TB HDD
 - GPU: ASUS DUAL-RX580-O8G OC 1360-1380MHZ 256Bit GDDR5 DX12
 
+## 8 Aug 2021 Update:
+- OpenCore 0.7.2
+- Kexts update
+- Drivers update
+- macOS 11.4
+
 ## 4 June 2021 Update:
 - OpenCore 0.6.9
-- kext updates
+- Kexts update
 - macOS 11.4
 
 ## 10 April 2021 Update:
 - OpenCore 0.6.8
-- kext updates
+- Kexts update
 - macOS 11.2.3
 
 ## 3 Feb 2021 Update:
 - OpenCore 0.6.7
-- kext updates
+- Kexts update
 - macOS 11.2.2
 
 ## 20 Dec 2020 Update:
 - OpenCore 0.6.4
-- kext updates
+- Kexts update
 - macOS 11.1
 
 ## 16 Nov 2020 Update:
 - OpenCore 0.6.3
-- kext updates
+- Kexts update
 - macOS 11.0.1
 
 ## 24 Oct 2020 Update:
 - OpenCore 0.6.2
-- kext updates
+- Kexts update
 - macOS 10.15.7
