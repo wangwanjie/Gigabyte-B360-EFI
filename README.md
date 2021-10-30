@@ -1,6 +1,6 @@
 # Gigabyte-B360-EFI
 
-Boot loader: OpenCore-0.7.2-RELEASE
+Boot loader: OpenCore
 
 # Kexts-and-plist
 i5-8500 + B360 + RX580
@@ -12,6 +12,12 @@ Components used for this build:
 - Memory: A-DATA 2 * 16GB + Kingston 2 * 8GB DDR4-3200 Memory
 - Storage: XPG GAMMIX S11 Pro 512GB NVME + Samsung 860 EVO 512GB NVME(SATA interface) + WD 1TB HDD
 - GPU: ASUS DUAL-RX580-O8G OC 1360-1380MHZ 256Bit GDDR5 DX12
+
+## 30 Oct 2021 Update:
+- OpenCore 0.7.4
+- Kexts update
+- Drivers update
+- macOS 12.0.1
 
 ## 8 Aug 2021 Update:
 - OpenCore 0.7.2
