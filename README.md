@@ -13,6 +13,12 @@ Components used for this build:
 - Storage: XPG GAMMIX S11 Pro 512GB NVME + Samsung 860 EVO 512GB NVME(SATA interface) + WD 1TB HDD
 - GPU: ASUS DUAL-RX580-O8G OC 1360-1380MHZ 256Bit GDDR5 DX12
 
+## 26 Mar 2022 Update:
+- OpenCore 0.7.9
+- Kexts update
+- Drivers update
+- macOS 12.3
+
 ## 3 Mar 2022 Update:
 - OpenCore 0.7.8
 - Kexts update
